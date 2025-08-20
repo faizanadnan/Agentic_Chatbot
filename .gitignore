@@ -1,3 +1,9 @@
 # created by virtualenv automatically
 .venv/bin
 requirements.txt
+.venv
+.idea/Chatbot.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/vcs.xml
